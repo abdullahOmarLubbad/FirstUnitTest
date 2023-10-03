@@ -28,6 +28,8 @@
             <class name="Assignment"></class>
         </classes>
     </test>
-
+<!--    <listeners>-->
+<!--        <listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+<!--    </listeners>-->
 </suite>
 
