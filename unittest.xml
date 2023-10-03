@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  هذا ملف عشان نشغل اكتر من تيست مرة وحدة-->
+<!--  suit مجموعة تيستات مع بعض-->
+<!-- test-->
+<!-- classes-->
+<!-- this is hiriicy suite - test - class-->
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Calculater" parallel="tests">
+<!--    عشان يشتغلوا مع بعض-->
+    <test name="Division Test">
+        <classes>
+            <class name="ExampleTest"></class>
+        </classes>
+    </test>
+    <test name="Grade Test">
+        <classes>
+            <class name="Grade"></class>
+        </classes>
+    </test>
+</suite>
