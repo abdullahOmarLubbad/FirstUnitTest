@@ -6,26 +6,26 @@
 <!-- this is hiriicy suite - test - class-->
 
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Calculater" parallel="tests">
+<suite name="Calculater" >
     <!--    عشان يشتغلوا مع بعض-->
     <test name="Division Test">
         <classes>
-            <class name="ExampleTest"></class>
+            <class name="ExampleTest"/>
         </classes>
     </test>
     <test name="Grade Test">
         <classes>
-            <class name="Grade"></class>
+            <class name="Grade"/>
         </classes>
     </test>
     <test name="Annotation Test">
         <classes>
-            <class name="Annotation"></class>
+            <class name="Annotation"/>
         </classes>
     </test>
     <test name="Assignment">
         <classes>
-            <class name="Assignment"></class>
+            <class name="Assignment"/>
         </classes>
     </test>
 <!--    <listeners>-->
