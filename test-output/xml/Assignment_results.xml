@@ -4,19 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.013">
+           time="0.023">
     <properties></properties>
 
 
 
             <testcase
                 name="test1"
-                time="0.001"
-                classname="Assignment">
-            </testcase>
-            <testcase
-                name="test1"
-                time="0.001"
+                time="0.002"
                 classname="Assignment">
             </testcase>
             <testcase
@@ -31,12 +26,17 @@
             </testcase>
             <testcase
                 name="test1"
-                time="0.004"
+                time="0.001"
                 classname="Assignment">
             </testcase>
             <testcase
                 name="test1"
-                time="0.006"
+                time="0.010"
+                classname="Assignment">
+            </testcase>
+            <testcase
+                name="test1"
+                time="0.009"
                 classname="Assignment">
             </testcase>
 </testsuite>
