@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.010">
+           time="0.001">
     <properties></properties>
 
 
 
             <testcase
                 name="testSum"
-                time="0.010"
+                time="0.001"
                 classname="Annotation">
             </testcase>
 </testsuite>

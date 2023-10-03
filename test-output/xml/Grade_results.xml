@@ -4,18 +4,13 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.031">
+           time="0.018">
     <properties></properties>
 
 
 
             <testcase
                 name="getGrade"
-                time="0.001"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
                 time="0.000"
                 classname="Grade">
             </testcase>
@@ -27,41 +22,6 @@
             <testcase
                 name="getGrade"
                 time="0.000"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="test4"
-                time="0.001"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
-                time="0.000"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
-                time="0.000"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
-                time="0.008"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
-                time="0.000"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
-                time="0.000"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
-                time="0.010"
                 classname="Grade">
             </testcase>
             <testcase
@@ -86,11 +46,6 @@
             </testcase>
             <testcase
                 name="getGrade"
-                time="0.000"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
                 time="0.001"
                 classname="Grade">
             </testcase>
@@ -100,23 +55,13 @@
                 classname="Grade">
             </testcase>
             <testcase
-                name="test1"
+                name="getGrade"
                 time="0.000"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="test2"
-                time="0.001"
                 classname="Grade">
             </testcase>
             <testcase
                 name="getGrade"
                 time="0.001"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
-                time="0.000"
                 classname="Grade">
             </testcase>
             <testcase
@@ -131,11 +76,6 @@
             </testcase>
             <testcase
                 name="getGrade"
-                time="0.000"
-                classname="Grade">
-            </testcase>
-            <testcase
-                name="getGrade"
                 time="0.001"
                 classname="Grade">
             </testcase>
@@ -151,17 +91,77 @@
             </testcase>
             <testcase
                 name="getGrade"
+                time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
                 time="0.000"
                 classname="Grade">
             </testcase>
             <testcase
                 name="getGrade"
                 time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="test4"
+                time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
+                time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="test1"
+                time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="test2"
+                time="0.000"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
+                time="0.000"
                 classname="Grade">
             </testcase>
             <testcase
                 name="getGrade"
                 time="0.002"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
+                time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
+                time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
+                time="0.000"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
+                time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
+                time="0.001"
+                classname="Grade">
+            </testcase>
+            <testcase
+                name="getGrade"
+                time="0.000"
                 classname="Grade">
             </testcase>
 </testsuite>
