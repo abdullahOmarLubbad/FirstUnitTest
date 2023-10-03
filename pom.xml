@@ -7,11 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>Abdullah</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+
     <dependencies>
     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
         <dependency>
@@ -26,9 +22,12 @@
             <version>1.2.2</version>
             <scope>test</scope>
         </dependency>
-
-
     </dependencies>
+    <properties>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
 
 </project>

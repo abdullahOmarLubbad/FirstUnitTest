@@ -13,7 +13,7 @@
             <class name="Grade"/>
             <class name="Annotation"/>
             <class name="Assignment"/>
-<!--            <class name="ExampleTest"/>-->
+            <class name="ExampleTest"/>
         </classes>
     </test>
 <!--    <listeners>-->
