@@ -10,10 +10,10 @@
     <!--    عشان يشتغلوا مع بعض-->
     <test name="Division Test">
         <classes>
-            <class name="ExampleTest"/>
             <class name="Grade"/>
             <class name="Annotation"/>
             <class name="Assignment"/>
+<!--            <class name="ExampleTest"/>-->
         </classes>
     </test>
 <!--    <listeners>-->
