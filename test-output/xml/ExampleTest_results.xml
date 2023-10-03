@@ -4,7 +4,7 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.007">
+           time="0.009">
     <properties></properties>
 
 
@@ -16,7 +16,7 @@
             </testcase>
             <testcase
                 name="validTestDivision"
-                time="0.003"
+                time="0.005"
                 classname="ExampleTest">
             </testcase>
 </testsuite>
